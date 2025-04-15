@@ -8,7 +8,7 @@ Bot uses some midi patterns for piano/pad\, bass, melody synth and using pre-col
 
 1. [X] Make some midi patterns for Keys
 2. [X] Algo to match midi with sounds
-3. [ ] Simple TG platform
+3. [ ] Simple TG platform - in
 
 ### Advanced Version
 
