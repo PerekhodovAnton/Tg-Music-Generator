@@ -6,8 +6,8 @@ TG user selects Key and Tempo (BPM).
 
 Bot uses some midi patterns for piano/pad\, bass, melody synth and using pre-collected library of sounds, make music
 
-1. [ ] Make some midi patterns for Keys
-2. [ ] Algo to match midi with sounds
+1. [X] Make some midi patterns for Keys
+2. [X] Algo to match midi with sounds
 3. [ ] Simple TG platform
 
 ### Advanced Version
