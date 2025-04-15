@@ -18,6 +18,7 @@ AI creates some midi patterns for piano/pad\, bass, melody synth. Create advance
 2. [ ] Algo to match midi with sounds
 3. [ ] Advanced TG platform
 4. [ ] Support new genres
+5. [ ] Sound generation with random (Automatic sound design)
 
 Requirements:
 
