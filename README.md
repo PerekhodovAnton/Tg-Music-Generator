@@ -20,7 +20,7 @@ AI creates some midi patterns for piano/pad\, bass, melody synth. Create advance
 4. [ ] Support new genres
 5. [ ] Sound generation with random (Automatic sound design)
 
-Requirements:
+Requirements (MacOS):
 
 ```
 brew install fluid-synth
