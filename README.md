@@ -1,6 +1,6 @@
 # Geneation of simple chords progressions via Telegram bot
 
-TG user selects Key and Tempo (BPM). 
+TG user selects Key and Tempo (BPM).
 
 ### Simple Version
 
@@ -19,11 +19,12 @@ AI creates some midi patterns for piano/pad\, bass, melody synth. Create advance
 3. [ ] Advanced TG platform
 4. [ ] Support new genres
 
+Requirements:
 
+```
+brew install fluid-synth
+```
 
-Remember:
-
-if have: .venv\Lib\site-packages\pydub\utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
-  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
-
-https://stackoverflow.com/questions/74651215/couldnt-find-ffmpeg-or-avconv-defaulting-to-ffmpeg-but-may-not-work-runti
+```python
+pip install midi2audio pydub
+```
